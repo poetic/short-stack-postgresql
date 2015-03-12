@@ -1,7 +1,8 @@
 Short Stack: PostgreSQL
 =========
 [![Build Status](https://travis-ci.org/poetic/short-stack-postgresql.svg)](https://travis-ci.org/poetic/short-stack-postgresql)
-Installs postgresql and adds launch agent.
+
+Installs PostgreSQL and adds launch agent.
 
 Requirements
 ------------

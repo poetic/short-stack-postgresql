@@ -1,5 +1,5 @@
 ---
-- name: install/update postgresql
+- name: ensures postgresql is installed/updated
   homebrew: name=postgresql state=latest
 
 - name: ensure ~/Library/LaunchAgents directory exists

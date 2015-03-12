@@ -2,7 +2,7 @@
 galaxy_info:
   author: Matthew Hager
   company: Poetic Systems
-  description: Short Stack role that installs postgresql and adds launch agent.
+  description: Installs PostgreSQL and adds launch agent.
   license: MIT
   min_ansible_version: 1.8
   platforms:
